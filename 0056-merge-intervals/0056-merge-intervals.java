@@ -2,44 +2,29 @@ class Solution {
     public int[][] merge(int[][] intervals) {
         List<int[]> list = new ArrayList<>();
 
-        for (int[] interval : intervals) {
-            list.add(interval);
-        }
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
-        boolean isHappened = true;
+        list.add(intervals[0]);
 
-        while (isHappened) {
-            isHappened = false;
-            for (int i = 0; i < list.size(); i++) {
-                int j = i + 1;
+        for(int i=1; i<intervals.length; i++) {
+            int[] prev = list.get(list.size() - 1);
+            int[] crr = intervals[i];
 
-                while (j < list.size()) {
-                    int[] n1 = list.get(i);
-                    int[] n2 = list.get(j);
-
-                    if (isOverLap(n1, n2)) {
-                        n1[0] = Math.min(n1[0], n2[0]);
-                        n1[1] = Math.max(n1[1], n2[1]);
-
-                        list.remove(j);
-                        isHappened = true;
-                    } else {
-                        j = j + 1;
-                    }
-                }
+            if(prev[1] >= crr[0]) {
+                prev[0] = Math.min(prev[0], crr[0]);
+                prev[1] = Math.max(prev[1], crr[1]);
+            }
+            else {
+                list.add(intervals[i]);
             }
         }
 
         int[][] res = new int[list.size()][2];
 
-        for (int i = 0; i < list.size(); i++) {
-            res[i] = list.get(i);
+        for(int x=0; x<list.size(); x++) {
+            res[x] = list.get(x);
         }
 
         return res;
-    }
-
-    public boolean isOverLap(int[] n1, int[] n2) {
-        return (n1[1] >= n2[0]) && (n2[1] >= n1[0]);
     }
 }
