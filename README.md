@@ -14,4 +14,12 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0056-merge-intervals/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/3169-count-days-without-meetings/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0125-valid-palindrome/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
