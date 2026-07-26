@@ -18,8 +18,10 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
