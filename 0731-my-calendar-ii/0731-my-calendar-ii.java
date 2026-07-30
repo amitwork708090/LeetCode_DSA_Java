@@ -18,6 +18,9 @@ class MyCalendarTwo {
                 tree.put(startTime, tree.get(startTime) - 1);
                 tree.put(endTime, tree.get(endTime) + 1);
 
+                if(tree.get(startTime) == 0) tree.remove(startTime);
+                if(tree.get(endTime) == 0) tree.remove(endTime);
+
                 return false;
             }
         }
