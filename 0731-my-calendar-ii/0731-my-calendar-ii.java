@@ -1,43 +1,26 @@
 class MyCalendarTwo {
 
-    List<int[]> bookings;
-    List<int[]> overlapBookings;
+    TreeMap<Integer, Integer> tree;
 
     public MyCalendarTwo() {
-        bookings = new ArrayList<int[]>();
-        overlapBookings = new ArrayList<int[]>();
-    }
-
-    public boolean isOverlap(int[] i1, int s2, int e2) {
-        int s1 = i1[0];
-        int e1 = i1[1];
-
-        return e1 >= s2 && e2 >= s1;
+        tree = new TreeMap<Integer, Integer>();
     }
     
     public boolean book(int startTime, int endTime) {
-        if(bookings.size() == 0) {
-            bookings.add(new int[] {startTime, endTime - 1});
-            return true;
-        }
+        tree.put(startTime, tree.getOrDefault(startTime, 0) + 1);
+        tree.put(endTime, tree.getOrDefault(endTime, 0) - 1);
 
-        for(int i=0; i<overlapBookings.size(); i++) {
-            if(isOverlap(overlapBookings.get(i), startTime, endTime - 1)) {
+        int bookings = 0;
+        for(Map.Entry<Integer, Integer> entry : tree.entrySet()) {
+            bookings = bookings + entry.getValue();
+
+            if(bookings > 2) {
+                tree.put(startTime, tree.get(startTime) - 1);
+                tree.put(endTime, tree.get(endTime) + 1);
+
                 return false;
             }
         }
-
-        for(int i=0; i<bookings.size(); i++) {
-            if(isOverlap(bookings.get(i), startTime, endTime -1)) {
-                overlapBookings.add(new int[] {
-                    Math.max(bookings.get(i)[0], startTime),
-                    Math.min(bookings.get(i)[1], endTime - 1)
-                });
-            }
-        }
-
-        bookings.add(new int[] {startTime, endTime - 1});
-
         return true;
     }
 }
