@@ -1,34 +1,31 @@
 class MyCalendar {
 
-    List<int[]> list ;
+    TreeMap<Integer, Integer> tree;
 
     public MyCalendar() {
-        list = new ArrayList<>();
-    }
-
-    public boolean overlap(int[] temp, int s2, int e2) {
-        int s1 = temp[0];
-        int e1 = temp[1];
-
-        if(e1 >= s2 && e2 >= s1) {
-            return true;
-        }
-        return false;
+        tree = new TreeMap<Integer, Integer>();
     }
     
     public boolean book(int startTime, int endTime) {
-        if(list.size() == 0) {
-            list.add(new int[] {startTime, endTime - 1});
-            return true;
-        }
+        //Adding startTime & endTime in tree...
+        tree.put(startTime, tree.getOrDefault(startTime, 0) + 1);
+        tree.put(endTime, tree.getOrDefault(endTime, 0) - 1);
 
-        for(int i=0; i<list.size(); i++) {
-            if(overlap(list.get(i), startTime, endTime - 1)) {
+        int bookings = 0;
+
+        for(Map.Entry<Integer, Integer> entry : tree.entrySet()) {
+            bookings = bookings + entry.getValue();
+
+            if(bookings > 1) {
+                tree.put(startTime, tree.get(startTime) - 1);
+                tree.put(endTime, tree.get(endTime) + 1);
+
+                if(tree.get(startTime) == 0) tree.remove(startTime);
+                if(tree.get(endTime) == 0) tree.remove(endTime);
+
                 return false;
             }
         }
-
-        list.add(new int[] {startTime, endTime - 1});
         return true;
     }
 }
