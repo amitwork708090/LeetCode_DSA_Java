@@ -8,6 +8,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0057-insert-interval/) | Medium |
+| [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -39,14 +40,17 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -55,5 +59,6 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 <!---LeetCode Topics End-->
