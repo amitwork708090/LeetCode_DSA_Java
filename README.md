@@ -42,12 +42,14 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0732-my-calendar-iii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0732-my-calendar-iii/) | Hard |
@@ -66,6 +68,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0732-my-calendar-iii/) | Hard |
@@ -77,4 +80,16 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 <!---LeetCode Topics End-->
