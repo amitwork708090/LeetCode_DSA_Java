@@ -14,6 +14,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0977-squares-of-a-sorted-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3169-count-days-without-meetings](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/3169-count-days-without-meetings/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0977-squares-of-a-sorted-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3169-count-days-without-meetings](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/3169-count-days-without-meetings/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +106,8 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
