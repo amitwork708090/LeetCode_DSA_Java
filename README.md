@@ -31,6 +31,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0125-valid-palindrome/) | Easy |
+| [0143-reorder-list](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0143-reorder-list/) | Medium |
 | [0344-reverse-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -104,6 +105,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0143-reorder-list](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0143-reorder-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,4 +114,12 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0143-reorder-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
