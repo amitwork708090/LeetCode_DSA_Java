@@ -8,6 +8,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0057-insert-interval/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
 | [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
@@ -88,6 +89,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Union-Find
