@@ -104,6 +104,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0143-reorder-list/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0725-split-linked-list-in-parts/) | Medium |
@@ -122,5 +123,6 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
