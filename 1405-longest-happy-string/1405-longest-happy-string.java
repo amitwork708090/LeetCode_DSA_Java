@@ -41,7 +41,7 @@ class Solution {
                 sb.append(s_c);
                 sCount = sCount - 1;
                 if (sCount > 0) maxHeap.add(new CharacterCount(sCount, s_c));
-                maxHeap.add(new CharacterCount(maxCount, _c));
+                if (maxCount > 0) maxHeap.add(new CharacterCount(maxCount, _c));
             } else {
                 sb.append(_c);
                 maxCount = maxCount - 1;
