@@ -21,6 +21,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0056-merge-intervals/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
@@ -32,6 +33,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0143-reorder-list/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -57,6 +59,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
@@ -83,6 +86,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
 | [1405-longest-happy-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1405-longest-happy-string/) | Medium |
 ## Simulation
@@ -103,6 +107,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
