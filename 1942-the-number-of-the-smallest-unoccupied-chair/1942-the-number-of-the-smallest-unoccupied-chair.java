@@ -1,22 +1,42 @@
 class Solution {
     public int smallestChair(int[][] times, int targetFriend) {
-        int tragetFriendTime = times[targetFriend][0];
+        int targetFriendArrival = times[targetFriend][0];
 
         Arrays.sort(times, (a, b) -> a[0] - b[0]);
-        
-        int[] chairs = new int[times.length];
 
-        for(int i=0; i<chairs.length; i++) {
-            for(int j=0; j<chairs.length; j++) {
-                if(times[i][0] >= chairs[j]) {
-                if(times[i][0] == tragetFriendTime) {
-                    return j;
+        PriorityQueue<Integer> avaliableChairs = new PriorityQueue<>();
+
+        PriorityQueue<int[]> occupiedChairs = new PriorityQueue<>((a, b) -> a[0] - b[0]); // int[] {endTime, index}
+
+        for(int i=0; i<times.length; i++) {
+            avaliableChairs.add(i);
+        }
+
+        for(int i=0; i<times.length; i++) {
+            int at = times[i][0];
+
+            while(!occupiedChairs.isEmpty()) {
+                if(at >= occupiedChairs.peek()[0]) {
+                    int[] chair = occupiedChairs.poll();
+                    avaliableChairs.add(chair[1]);
                 }
-                chairs[j] = times[i][1];
-                break;
+                else {
+                    break;
                 }
             }
+
+            int c = avaliableChairs.poll();
+
+            if(at == targetFriendArrival) {
+                return c;
+            }
+
+            occupiedChairs.add(new int[]{
+                times[i][1], c // endTime, index
+            });
+
+
         }
-        return -1;
+    return -1;
     }
 }
