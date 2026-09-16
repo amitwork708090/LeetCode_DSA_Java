@@ -17,6 +17,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [1288-remove-covered-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3169-count-days-without-meetings](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/3169-count-days-without-meetings/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2402-meeting-rooms-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3169-count-days-without-meetings](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/3169-count-days-without-meetings/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -91,10 +93,12 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
 | [1405-longest-happy-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1405-longest-happy-string/) | Medium |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +107,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
