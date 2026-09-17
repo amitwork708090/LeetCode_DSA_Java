@@ -3,21 +3,33 @@ class Solution {
         int n = intervals.length;
         int[] res = new int[n];
 
+        PriorityQueue<int[]> minStart = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+        PriorityQueue<int[]> minEnd = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+
         for(int i=0; i<n; i++) {
-            int minStartIdx = -1;
+            res[i] = -1;
 
-            for(int j=0; j<n; j++) {
-                if(intervals[j][0] >= intervals[i][1]) {
-                    if(minStartIdx == -1) minStartIdx = j;
+            minStart.add(new int[] {intervals[i][0], i});
+            minEnd.add(new int[] {intervals[i][1], i});
+        }
 
-                    if(intervals[minStartIdx][0] > intervals[j][0]) {
-                        minStartIdx = j;
-                    }
-                }
+        while(!minStart.isEmpty() && !minEnd.isEmpty()) {
+            int[] startEle = minStart.peek();
 
-                res[i] = minStartIdx;
+            int start = startEle[0];
+            int startIdx = startEle[1];
+
+            if(start >= minEnd.peek()[0]) {
+                res[minEnd.peek()[1]] = startIdx;
+                minEnd.poll();
+            }
+            else {
+                minStart.poll();
             }
         }
         return res;
-    }
+     }
 }
+
+// Tc = O(n^2) 
+// Sc = O(1) 
