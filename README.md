@@ -14,6 +14,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -62,6 +63,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0732-my-calendar-iii/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0732-my-calendar-iii/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -146,4 +149,8 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0024-swap-nodes-in-pairs](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0143-reorder-list/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
