@@ -6,6 +6,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0001-two-sum/) | Easy |
 | [0056-merge-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0057-insert-interval/) | Medium |
 | [0217-contains-duplicate](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0217-contains-duplicate/) | Easy |
@@ -112,6 +113,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0242-valid-anagram/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
