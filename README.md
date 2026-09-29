@@ -27,6 +27,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0436-find-right-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0436-find-right-interval/) | Medium |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
@@ -49,6 +50,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1405-longest-happy-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1405-longest-happy-string/) | Medium |
@@ -111,6 +113,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0242-valid-anagram/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
