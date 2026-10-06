@@ -12,6 +12,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0217-contains-duplicate](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0436-find-right-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0480-sliding-window-median](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0480-sliding-window-median/) | Hard |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
 | [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
@@ -101,6 +102,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0480-sliding-window-median](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0480-sliding-window-median/) | Hard |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
 | [1405-longest-happy-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1405-longest-happy-string/) | Medium |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
@@ -118,6 +120,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0242-valid-anagram](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0242-valid-anagram/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0480-sliding-window-median](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0480-sliding-window-median/) | Hard |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
@@ -160,5 +163,10 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0480-sliding-window-median](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0480-sliding-window-median/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0480-sliding-window-median](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0480-sliding-window-median/) | Hard |
 <!---LeetCode Topics End-->
