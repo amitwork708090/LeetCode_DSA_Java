@@ -55,6 +55,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0242-valid-anagram](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1405-longest-happy-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1405-longest-happy-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0143-reorder-list/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +171,8 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0480-sliding-window-median/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
