@@ -13,6 +13,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0436-find-right-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0480-sliding-window-median](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0480-sliding-window-median/) | Hard |
+| [0502-ipo](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0502-ipo/) | Hard |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
 | [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
@@ -32,6 +33,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0242-valid-anagram](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0436-find-right-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0436-find-right-interval/) | Medium |
+| [0502-ipo](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0502-ipo/) | Hard |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
@@ -60,6 +62,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0502-ipo](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0502-ipo/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1405-longest-happy-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1405-longest-happy-string/) | Medium |
 ## Binary Search
@@ -104,6 +107,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0480-sliding-window-median](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0480-sliding-window-median/) | Hard |
+| [0502-ipo](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0502-ipo/) | Hard |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
 | [1405-longest-happy-string](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1405-longest-happy-string/) | Medium |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
