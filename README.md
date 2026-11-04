@@ -10,6 +10,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0056-merge-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0057-insert-interval/) | Medium |
 | [0217-contains-duplicate](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0436-find-right-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0480-sliding-window-median](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0480-sliding-window-median/) | Hard |
@@ -91,6 +92,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0731-my-calendar-ii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0732-my-calendar-iii/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
