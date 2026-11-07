@@ -7,6 +7,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0056-merge-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0057-insert-interval/) | Medium |
 | [0217-contains-duplicate](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0217-contains-duplicate/) | Easy |
@@ -69,6 +70,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0436-find-right-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0436-find-right-interval/) | Medium |
 | [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
@@ -181,4 +183,8 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
