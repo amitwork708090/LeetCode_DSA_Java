@@ -15,6 +15,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [0436-find-right-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0480-sliding-window-median](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0480-sliding-window-median/) | Hard |
+| [0485-max-consecutive-ones](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0502-ipo](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0502-ipo/) | Hard |
 | [0645-set-mismatch](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0645-set-mismatch/) | Easy |
 | [0729-my-calendar-i](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0729-my-calendar-i/) | Medium |
