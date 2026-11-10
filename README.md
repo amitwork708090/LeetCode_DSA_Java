@@ -24,6 +24,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | [1004-max-consecutive-ones-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1094-car-pooling](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/2402-meeting-rooms-iii/) | Hard |
@@ -188,4 +189,8 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 <!---LeetCode Topics End-->
