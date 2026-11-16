@@ -8,6 +8,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0015-3sum](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0057-insert-interval/) | Medium |
 | [0217-contains-duplicate](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0217-contains-duplicate/) | Easy |
@@ -32,6 +33,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0242-valid-anagram/) | Easy |
@@ -48,6 +50,7 @@ LeetCode solutions in Java | Data Structures &amp; Algorithms
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0143-reorder-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/amitwork708090/LeetCode_DSA_Java/tree/main/0295-find-median-from-data-stream/) | Hard |
